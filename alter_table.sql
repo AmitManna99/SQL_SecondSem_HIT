@@ -1,6 +1,6 @@
 DESC EMP;
 DESC DEPT;
-DESC PROJECTES;
+DESC PROJECTS;
 
 -- -----------------------
 
